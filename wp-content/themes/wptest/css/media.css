@@ -1,0 +1,345 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+    .video-wid-hei{
+        width: 900px;
+        height: 400px;
+    }
+    .uzer-img img{
+        height: 65px;
+        width: 65px;
+    }
+    .uzer-img{
+        width: 17%;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+    .video-wid-hei{
+        width: 700px;
+        height: 300px;
+    }
+    .header-menu ul li{
+        width: 85%;
+    }
+    .header-menu ul li p{
+        width: 86%;
+    }
+    .images-block-1 img{
+        height: 300px;
+    }
+    .images-block-2 img{
+        height: 300px;
+    }
+    .images-block-3 img{
+        height: 300px;
+    }
+    .images-block-4 img{
+        height: 300px;
+    }
+    .komanda-div-1 p{
+        font-size: 13px;
+    }
+    .sxama-ul-1 ul li{
+        width: 32%;
+    }
+    .sxema-raboti-block{
+        background-size: 100% 100%;
+    }
+    .zoom-icon-text-block{
+        margin-top: 30%;
+    }
+    .absolute-img-margin{
+        margin-top: 85px;
+    }
+    .absolute-img-margin a{
+        font-size: 19px;
+    }
+    .divmargin a{
+        font-size: 15px;
+    }
+    .div-img{
+        max-width: 30px;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+    .partnyor-title hr{
+        display: none;
+    }
+    .divmargin a{
+        font-size: 10px;
+    }
+    .video-wid-hei{
+        width: 400px;
+        height: 200px;
+    }
+    .registration{
+        margin-top: 0px;
+    }
+    .header-registration-block{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .header-text h1{
+        font-size: 48px;
+    }
+    .header-title-block{
+        width: 100%;
+    }
+    .border-text h4{
+        font-size: 25px;
+    }
+    .border-text h5{
+        font-size: 25px;
+    }
+    .border-text h6{
+        font-size: 25px;
+    }
+    .images-block-1 img{
+        height: 200px;
+    }
+    .images-block-2 img{
+        height: 200px;
+    }
+    .images-block-3 img{
+        height: 200px;
+    }
+    .images-block-4 img{
+        height: 200px;
+    }
+    .komanda-ul-foto-border ul li img{
+        height: 31px;
+    }
+    .komanda-div-1{
+        width: 50%;
+        margin-left: 0%;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .sxama-ul-1 ul li p{
+        font-size: 14px;
+    }
+    .sxama-ul-1 ul li img{
+        height: 40px;
+    }
+    .sxema-ul-2 ul li img{
+        height: 40px;
+    }
+    .sxema-ul-2 ul li p{
+        font-size: 14px;
+    }
+    .sxema-ul-3 ul li img{
+        height: 40px;
+    }
+    .sxema-ul-3 ul li p{
+        font-size: 14px;
+    }
+    .image-ul-1 ul li{
+        width: 23.5%;
+    }
+    .image-ul-1 ul li img{
+        height: 65px;
+    }
+    .partnyor-title p{
+        font-size: 25px;
+        margin-top: 15px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .image-ul-2 ul li img{
+        height: 40px;
+    }
+    .image-ul-2 ul li{
+        width: 23.5%;
+    }
+    .border-text h2{
+        font-size: 25px;
+    }
+    .text-are-img{
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .text-area-block{
+        margin-top: 10px;
+    }
+    .text-are-img img{
+        width: 65px;
+        height: 65px;
+    }
+    .text-are-form{
+        padding-left: 0px;
+        text-align: center;
+        width: 100%;
+    }
+    .user-otziv-block{
+        width: 100%;
+    }
+    .user-otziv-block-2{
+        margin-left: 30px;
+        width: 100%;
+    }
+    .absolute-img-margin a{
+        font-size: 17px;
+    }
+    .zoom-icon-text-block p{
+        font-size: 15px;
+    }
+    .float-1{
+        width: 88%;
+    }
+    .div-img-2{
+        width: 35px!important;
+        height: 35px!important;
+    }
+}
+@media only screen and (max-width : 610px){
+    .margin{
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .slayder-img{
+        width: 80%;
+        float: none;
+    }
+    .slayder-boottom-img{
+        text-align: center;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+    .header-text h1{
+        font-size: 39px;
+        line-height: 35px;
+    }
+    .header-menu ul li{
+        width: 100%;
+    }
+    .fa-check{
+        margin-bottom: 50px;
+    }
+    .border-text{
+        width: 100%;
+    }
+    .border-div{
+        display: none;
+    }
+    .border-text h2{
+        font-size: 22px;
+    }
+    .video-wid-hei{
+        width: 250px;
+        height: 120px;
+    }
+    .owl-next{
+        right: -35px;
+    }
+    .owl-prev{
+        left: -35px;
+    }
+    .absolute-img-1{
+        display: none!important;
+    }
+    .border-text h6{
+        margin: 10px 0px;
+    }
+    .absolute-img-2{
+        display: none;
+    }
+    .images-block-1{
+        width: 100%;
+    }
+    .images-block-2{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .images-block-4{
+        margin-bottom: 20px;
+    }
+    .border-text h5{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    hr{
+        display: none;
+    }
+    .komanda-ul-foto-border{
+        display: none;
+    }
+    .komanda-div-1 p{
+        text-align: center;
+    }
+    .komanda-div-1{
+        width: 100%;
+    }
+    .partnyor-title hr{
+        display: none;
+    }
+    .image-ul-1 ul li img{
+        height: 35px;
+    }
+    .image-ul-2 ul li img{
+        height: 35px;
+    }
+    .text-are-form textarea{
+        width: 230px;
+        height: 65px;
+    }
+    .uzer-img img{
+        width: 45px;
+        height: 45px;
+    }
+    .uzer-otziv p{
+        margin-left: 13px;
+        margin-top: 5px;
+        color: #ffffff;
+        font-family: exo2 Medium;
+        font-size: 16px;
+        margin-bottom: 4px;
+    }
+    .otvet-button p{
+        font-size: 12px;
+    }
+    .user-otziv-block-2{
+        margin-left: 13px;
+    }
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
